@@ -11,7 +11,7 @@ Devices are grouped in folders as follows:
    - iPhone 12 mini
    - iPhone 13 mini
 
-**• Folder: 12Pm**
+**• Folder: 12P**
    - iPhone 12 Pro
    - iPhone 13 Pro
 
