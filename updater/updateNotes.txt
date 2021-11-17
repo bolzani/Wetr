@@ -1,0 +1,19 @@
+What's new in Wetr 0.10?
+______________
+
+NEW THEMES:
+• Clear
+• Auto (uses Light or Dark theme depending on if the sun is up)
+
+Light Mode Revamp:
+• Light mode has again been touched up to look even better.
+(You may need to delete Light theme folder to get new images)
+
+NEW FEATURES:
+• Automatically control your system appearance (Dark/Light Mode)
+• Show the time Wetr last refreshed your wallpaper
+• Fonts! A variety of system fonts can now be used
+____________
+0.10.1 fixes text position for Clear theme for a few devices
+____________
+0.10.2 adds 'Blowing Snow' condition overlay.
