@@ -1,5 +1,3 @@
-https://broank.bss.design/Wetr.html
-
 Find image mods to manually install.
 Follow the same folder path locally on your iPhone's iCloud Drive starting from Shortcuts folder.
 
